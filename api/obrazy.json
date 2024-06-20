@@ -1,0 +1,83 @@
+[ 
+    {
+        "id": 0,
+        "nazev": "Tulipány ve váze",
+        "cena": "5 500",
+        "technika": "olejomalba",
+        "rozmer": "50 x 40",
+        "foto": "/assets/images/obr_1.jpg",
+        "popis": "Jarní květinové zátiší malované staromistrovskou vrstvenou technikou průhlednými lazurami. Obraz je zarámován, s háčkem na upevnění."
+      },
+      {
+        "id": 1,
+        "nazev": "Štramberk",
+        "cena": "5 500",
+        "technika": "olejomalba",
+        "rozmer": "40 x 50",
+        "foto": "/assets/images/obr_2.jpg",
+        "popis": "Letní pohled na Štramberskou Trúbu a dřevěnky. Obraz je zarámován, s háčkem na upevnění."
+      },
+      {
+        "id": 2,
+        "nazev": "Most u řeky Marny",
+        "cena": "5 500",
+        "technika": "olejomalba",
+        "rozmer": "50 x 35 cm",
+        "foto": "/assets/images/obr_3.jpg",
+        "popis": "Inspirace Francií a impresionismem, podle Paula Cézanna. Tvoří harmonickou dvojici s obrazem Vila u řeky Marny, lze prodat i jednotlivě. Obraz je zarámován, s háčkem na upevnění."
+      },
+      {
+        "id": 3,
+        "nazev": "Vila u řeky Marny",
+        "cena": "5 500",
+        "technika": "olejomalba",
+        "rozmer": "45 x 35 cm",
+        "foto": "/assets/images/obr_4.jpg",
+        "popis": "Inspirace Francií a impresionismem, podle Paula Cézanna. Tvoří harmonickou dvojici s obrazem Most u řeky Marny, lze prodat i jednotlivě. Obraz je zarámován, s háčkem na upevnění."
+      },
+      {
+        "id": 4,
+        "nazev": "Jelínek",
+        "cena": "3 500",
+        "technika": "olejomalba",
+        "rozmer": "30 x 40",
+        "foto": "/assets/images/obr_5.jpg",
+        "popis": "Realistický portrét divokého zvířete. Obraz je zarámován, s háčkem na upevnění."
+      },
+      {
+        "id": 5,
+        "nazev": "Oslík",
+        "cena": "3 500",
+        "technika": "olejomalba",
+        "rozmer": "30 x 40",
+       "foto": "/assets/images/obr_6.jpg",
+        "popis": "Realistický portrét zvířete. Detail hlavy smějícího se oslíka pro dobrou náladu. Obraz je zarámován, s háčkem na upevnění."
+      },
+      {
+        "id": 6,
+        "nazev": "Dívka s květinami",
+        "cena": "2 500",
+        "technika": "suchý pastel",
+        "rozmer": "30 x 40",
+        "foto": "/assets/images/obr_7.jpg",
+        "popis": "Snový obraz mladé ženy s květinami. Poloprofil. Obraz je namalován na kartonu, upevněn v kliprámu, s háčkem na upevnění."
+      },
+      {
+        "id": 7,
+        "nazev": "Liška na sněhu",
+        "cena": "500",
+        "technika": "akryl",
+        "rozmer": "20 x 17",
+        "foto": "/assets/images/obr_8.jpg",
+        "popis": "Liška v zimě. Vhodný do dětského pokoje a pro milovníka lišek. Obraz je v olištován, s háčkem na upevnění."
+      },
+      {
+        "id": 8,
+        "nazev": "Váza s květinami",
+        "cena": "5 500",
+        "technika": "olejomalba",
+        "rozmer": "50 x 40",
+        "foto": "/assets/images/obr_9.jpg",
+        "popis": "Květinové zátiší kopie obrazu, autorem originálu je francouzský malíř Edouard Manet. Malovaný olejem. Obraz je zarámován, s háčkem na upevnění."
+      }   
+]
